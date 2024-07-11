@@ -1,6 +1,7 @@
 # BAT (Basic Android Template)
 
 ![Logo](images/logo.png)
+
 ([Logo by ghost_icon](https://www.freepik.com/icon/bat_3717068))
 
 # Features
